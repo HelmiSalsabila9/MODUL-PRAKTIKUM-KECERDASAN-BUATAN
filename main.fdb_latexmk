@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1647665540 "g:/TUGAS KAMPUS SEMESTER 6/KECERDASAN BUATAN/1/MODULKU/MODUL PRAKTIKUM KECERDASAN BUATAN - 1194018 - HELMI SALSABILA/main.tex" "main.pdf" "main" 1647665542
+["pdflatex"] 1647665798 "g:/TUGAS KAMPUS SEMESTER 6/KECERDASAN BUATAN/1/MODULKU/MODUL PRAKTIKUM KECERDASAN BUATAN - 1194018 - HELMI SALSABILA/main.tex" "main.pdf" "main" 1647665800
   "C:/Users/Helmi Salsabila/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1647660750 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Helmi Salsabila/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1647660881 10251717 896b671a4e4b694b6ccb09d8eacf46b5 ""
   "C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -43,13 +43,13 @@
   "images/Chapter1/Chapter1f.png" 1647639936 46113 c65ffee8b78a6bd29c6cebcf966a123e ""
   "images/Chapter1/Chapter1fa.png" 1647639936 8911 7321899397df9b98202cf16dfc3b4488 ""
   "images/logo-polpos.png" 1647639936 103033 73c02b41f948b6abfa0caf5c332e10a7 ""
-  "main.aux" 1647665544 92 edf36e998594e4fda397ffb35514b630 "pdflatex"
-  "main.lof" 1647665544 571 e5c284ddf5912a22984c8deb17891a4a "pdflatex"
-  "main.toc" 1647665544 374 5cab2aabea427fc5c4ccfb18d30868ea "pdflatex"
-  "section/chapter1.aux" 1647665544 2188 56f40425b49538fa02c9dbe0eefae1b4 "pdflatex"
+  "main.aux" 1647665800 93 1d5a1f8c92ee714f06d9a1b79df42777 "pdflatex"
+  "main.lof" 1647665800 571 e5c284ddf5912a22984c8deb17891a4a "pdflatex"
+  "main.toc" 1647665800 374 5cab2aabea427fc5c4ccfb18d30868ea "pdflatex"
+  "section/chapter1.aux" 1647665800 2188 56f40425b49538fa02c9dbe0eefae1b4 "pdflatex"
   "section/chapter1.tex" 1647639936 7239 54d71b73f949e0c2bb496917af4e055a ""
-  "section/chapter2.aux" 1647665544 629 4995c1b3ba782e3b71c1092fc3ad9393 "pdflatex"
-  "section/chapter2.tex" 1647665536 810 2ae421b688bf32c357b1bb8b3babfc47 ""
+  "section/chapter2.aux" 1647665800 629 b9a7511ff8cc0d01238ff60e34d89c50 "pdflatex"
+  "section/chapter2.tex" 1647665796 3974 de9290849d88ba419014161ee5863f13 ""
   "templates.cls" 1647639936 7389 9be0271d05b319a81c1dffb048a44ddf ""
   (generated)
   "main.aux"

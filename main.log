@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.19)  19 MAR 2022 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.19)  19 MAR 2022 11:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,7 +206,7 @@ Chapter 2.
 
 
 
-] (main.aux (section/chapter1.aux) (section/chapter2.aux))
+] [7] (main.aux (section/chapter1.aux) (section/chapter2.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -214,15 +214,15 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  1573 strings out of 478582
  30346 string characters out of 2839588
- 320451 words of memory out of 3000000
+ 320453 words of memory out of 3000000
  19751 multiletter control sequences out of 15000+600000
  473861 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,7n,76p,920b,292s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (9 pages, 830873 bytes).
+Output written on main.pdf (10 pages, 833524 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
