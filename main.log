@@ -1,0 +1,228 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.19)  19 MAR 2022 11:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"g:/TUGAS KAMPUS SEMESTER 6/KECERDASAN BUATAN/1/MODULKU/MODUL PRAKTIKUM KECERDASAN BUATAN - 1194018 - HELMI SALSABILA/main.tex"
+(g:/TUGAS KAMPUS SEMESTER 6/KECERDASAN BUATAN/1/MODULKU/MODUL PRAKTIKUM KECERDASAN BUATAN - 1194018 - HELMI SALSABILA/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (templates.cls
+
+LaTeX Warning: You have requested document class `templates',
+               but the document class provides `ociamthesis'.
+
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+(C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+) (main.aux (section/chapter1.aux) (section/chapter2.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen142
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks18
+) (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Helmi Salsabila\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<images/logo-polpos.png, id=1, 291.2481pt x 272.217pt>
+File: images/logo-polpos.png Graphic file (type png)
+<use images/logo-polpos.png>
+Package pdftex.def Info: images/logo-polpos.png  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 132.9721pt.
+ [1
+
+{C:/Users/Helmi Salsabila/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo-polpos.png>] (main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+
+] (main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [2
+
+]
+\openout2 = `section/chapter1.aux'.
+
+ (section/chapter1.tex
+Chapter 1.
+
+LaTeX Warning: Citation `russell2016artificial' on page 1 undefined on input line 2.
+
+
+LaTeX Warning: Citation `eckroth2018python' on page 1 undefined on input line 2.
+
+
+LaTeX Warning: Citation `poole2017python' on page 1 undefined on input line 2.
+
+[1
+
+
+
+]
+Overfull \hbox (0.78198pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/12 Membuka https://scikit-learn.org/stable/tutorial/basic/tutorial.html. Den-gan meng-
+ []
+
+[2]
+<images/Chapter1/Chapter1a.png, id=23, 572.1375pt x 295.1025pt>
+File: images/Chapter1/Chapter1a.png Graphic file (type png)
+<use images/Chapter1/Chapter1a.png>
+Package pdftex.def Info: images/Chapter1/Chapter1a.png  used on input line 59.
+(pdftex.def)             Requested size: 217.4145pt x 112.1401pt.
+<images/Chapter1/Chapter1b.png, id=24, 571.38469pt x 300.3722pt>
+File: images/Chapter1/Chapter1b.png Graphic file (type png)
+<use images/Chapter1/Chapter1b.png>
+Package pdftex.def Info: images/Chapter1/Chapter1b.png  used on input line 59.
+(pdftex.def)             Requested size: 217.12843pt x 114.14261pt.
+<images/Chapter1/Chapter1c.png, id=25, 144.54pt x 50.43843pt>
+File: images/Chapter1/Chapter1c.png Graphic file (type png)
+<use images/Chapter1/Chapter1c.png>
+Package pdftex.def Info: images/Chapter1/Chapter1c.png  used on input line 69.
+(pdftex.def)             Requested size: 144.53963pt x 50.4383pt.
+<images/Chapter1/Chapter1ca.png, id=26, 147.55125pt x 76.03406pt>
+File: images/Chapter1/Chapter1ca.png Graphic file (type png)
+<use images/Chapter1/Chapter1ca.png>
+Package pdftex.def Info: images/Chapter1/Chapter1ca.png  used on input line 69.
+(pdftex.def)             Requested size: 147.55087pt x 76.03386pt.
+<images/Chapter1/Chapter1d.png, id=27, 219.82124pt x 51.19125pt>
+File: images/Chapter1/Chapter1d.png Graphic file (type png)
+<use images/Chapter1/Chapter1d.png>
+Package pdftex.def Info: images/Chapter1/Chapter1d.png  used on input line 79.
+(pdftex.def)             Requested size: 219.8207pt x 51.19112pt.
+<images/Chapter1/Chapter1da.png, id=28, 111.41624pt x 30.1125pt>
+File: images/Chapter1/Chapter1da.png Graphic file (type png)
+<use images/Chapter1/Chapter1da.png>
+Package pdftex.def Info: images/Chapter1/Chapter1da.png  used on input line 79.
+(pdftex.def)             Requested size: 111.41597pt x 30.11241pt.
+ [3 <./images/Chapter1/Chapter1a.png> <./images/Chapter1/Chapter1b.png> <./images/Chapter1/Chapter1c.png> <./images/Chapter1/Chapter1ca.png> <./images/Chapter1/Chapter1d.png> <./images/Chapter1/Chapter1da.png>]
+<images/Chapter1/Chapter1e.png, id=38, 322.95656pt x 188.95593pt>
+File: images/Chapter1/Chapter1e.png Graphic file (type png)
+<use images/Chapter1/Chapter1e.png>
+Package pdftex.def Info: images/Chapter1/Chapter1e.png  used on input line 90.
+(pdftex.def)             Requested size: 258.36559pt x 151.16493pt.
+<images/Chapter1/Chapter1ea.png, id=39, 149.05687pt x 112.16907pt>
+File: images/Chapter1/Chapter1ea.png Graphic file (type png)
+<use images/Chapter1/Chapter1ea.png>
+Package pdftex.def Info: images/Chapter1/Chapter1ea.png  used on input line 90.
+(pdftex.def)             Requested size: 119.24565pt x 89.73535pt.
+<images/Chapter1/Chapter1f.png, id=40, 182.93344pt x 119.69719pt>
+File: images/Chapter1/Chapter1f.png Graphic file (type png)
+<use images/Chapter1/Chapter1f.png>
+Package pdftex.def Info: images/Chapter1/Chapter1f.png  used on input line 100.
+(pdftex.def)             Requested size: 146.34694pt x 95.75786pt.
+<images/Chapter1/Chapter1fa.png, id=41, 82.05656pt x 39.14626pt>
+File: images/Chapter1/Chapter1fa.png Graphic file (type png)
+<use images/Chapter1/Chapter1fa.png>
+Package pdftex.def Info: images/Chapter1/Chapter1fa.png  used on input line 100.
+(pdftex.def)             Requested size: 65.64532pt x 31.31703pt.
+<images/Chapter1/Chapter1error.png, id=42, 218.31563pt x 81.30376pt>
+File: images/Chapter1/Chapter1error.png Graphic file (type png)
+<use images/Chapter1/Chapter1error.png>
+Package pdftex.def Info: images/Chapter1/Chapter1error.png  used on input line 115.
+(pdftex.def)             Requested size: 218.31508pt x 81.30354pt.
+ [4 <./images/Chapter1/Chapter1e.png> <./images/Chapter1/Chapter1ea.png> <./images/Chapter1/Chapter1f.png> <./images/Chapter1/Chapter1fa.png> <./images/Chapter1/Chapter1error.png>]) [5]
+\openout2 = `section/chapter2.aux'.
+
+ (section/chapter2.tex
+Chapter 2.
+) [6
+
+
+
+
+] (main.aux (section/chapter1.aux) (section/chapter2.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1573 strings out of 478582
+ 30346 string characters out of 2839588
+ 320451 words of memory out of 3000000
+ 19751 multiletter control sequences out of 15000+600000
+ 473861 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,7n,76p,920b,292s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Helmi Salsabila/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (9 pages, 830873 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
